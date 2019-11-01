@@ -4,7 +4,7 @@
     "contentApiKey": "9cc5c67c358edfdd81455149d0"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://ghost.videtur.io",
+    "contentApiKey": "09b34a4893ddf53601d5337502"
   }
 }
